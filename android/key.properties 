@@ -1,0 +1,4 @@
+storePassword=AIMotionTeam
+keyPassword=AIMotionTeam
+keyAlias=key
+storeFile=/AIMotionkey.jks
